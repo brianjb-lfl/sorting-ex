@@ -100,3 +100,4 @@ const myArray = [15, 12, 7, 44, 3, 12, 101, 87, 9];
 
 exports.bubbleSort = bubbleSort;
 exports.mergeSort = mergeSort;
+exports.quickSort = quickSort;
