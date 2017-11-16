@@ -74,4 +74,9 @@ function merge(left, right, array) {
 
 
 const myArray = [15, 12, 7, 44, 3, 12, 101, 87, 9];
-mergeSort(myArray);
+//console.log(mergeSort(myArray));
+
+
+
+exports.bubbleSort = bubbleSort;
+exports.mergeSort = mergeSort;
